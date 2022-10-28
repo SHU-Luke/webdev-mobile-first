@@ -8,6 +8,9 @@ h2 {
   max-width: 1200px;
   min-width: 600px;
 }
+body{
+  background-color:#7e8aa2
+}
 header {
   border-radius: 8px;
   display: flex;
